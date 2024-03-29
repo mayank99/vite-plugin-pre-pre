@@ -1,0 +1,17 @@
+{
+	"name": "vite-plugin-pre-pre",
+	"version": "0.1.0",
+	"type": "module",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mayank99/vite-plugin-pre-pre"
+	},
+	"files": [
+		"mod.js",
+		"mod.d.ts"
+	],
+	"exports": {
+		".": "./mod.js"
+	}
+}
